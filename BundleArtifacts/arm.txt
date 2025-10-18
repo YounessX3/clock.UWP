@@ -1,0 +1,2 @@
+MainPackage=C:\Users\youpr\source\repos\clock.UWP\clock.UWP\bin\ARM\Release\clock.UWP_1.0.3.0_ARM.msix
+SymbolPackage=C:\Users\youpr\source\repos\clock.UWP\clock.UWP\obj\ARM\Release\Symbols\clock.UWP_1.0.3.0_ARM.appxsym
